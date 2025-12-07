@@ -36,3 +36,5 @@ rsconnect/
 demand_functions.R
 .DS_Store
 *.db
+data/*.xlsx
+data/*.rds
