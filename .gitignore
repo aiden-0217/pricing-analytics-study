@@ -34,3 +34,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 demand_functions.R
+.DS_Store
+*.db

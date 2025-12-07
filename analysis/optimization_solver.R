@@ -1,5 +1,5 @@
-source("demand_function.R")
-source("profit_functions.R")
+source("R/demand_function.R")
+source("R/profit_functions.R")
 
 intercept <- 1000  
 slope <- -5       
