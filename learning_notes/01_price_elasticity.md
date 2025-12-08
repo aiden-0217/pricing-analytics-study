@@ -8,7 +8,7 @@ It answers the question: *If we change the price, how much will the volume react
 It is calculated as the percentage change in quantity demanded divided by the percentage change in price:
 
 $$
-\epsilon = \frac{\%\Delta Q}{\%\Delta P}
+\epsilon = \frac{\text{\%}\Delta Q}{\text{\%}\Delta P}
 $$
 
 ## Why is the Coefficient Negative?
