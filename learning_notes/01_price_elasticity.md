@@ -7,7 +7,9 @@ Price Elasticity of Demand (PED) is the fundamental metric used by Pricing Analy
 It answers the question: *If we change the price, how much will the volume react?* 
 It is calculated as the percentage change in quantity demanded divided by the percentage change in price:
 
-$$\epsilon = \frac{\%\Delta Q}{\%\Delta P}$$
+$$
+\epsilon = \frac{\%\Delta Q}{\%\Delta P}
+$$
 
 ## Why is the Coefficient Negative?
 In almost all retail scenarios, the elasticity coefficient is **negative**. 
